@@ -1,5 +1,5 @@
 name: first-workflow
-run-name: Ubuntu Workflow
+run-name: Ubuntu Workflow on Main
 
 on: 
   - push
